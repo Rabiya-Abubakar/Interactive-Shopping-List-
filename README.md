@@ -1,5 +1,7 @@
-Shopping List Application
-Overview
+# Shopping List Application
+
+##Overview
+
 The Shopping List Application is a simple, interactive web app that allows users to create and manage a shopping list. It is built using HTML, CSS, and JavaScript, providing a user-friendly interface to add, mark, and delete items.
 
 Features
