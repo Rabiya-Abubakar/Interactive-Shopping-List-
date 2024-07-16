@@ -30,18 +30,18 @@ Open index.html in your web browser to start using the application.
 Usage
 Create Shopping List:
 
-Enter a name for your shopping list in the "New List" input field.
+1. Enter a name for your shopping list in the "New List" input field.
 Click the "Create" button to create the list.
 Add Items:
 
-Enter an item name in the "New Item" input field.
+2. Enter an item name in the "New Item" input field.
 Click the "Add" button or press the Enter key to add the item to the list.
 Mark Items as Purchased:
 
-Click on an item in the list to mark it as purchased. The item will be crossed out.
+3. Click on an item in the list to mark it as purchased. The item will be crossed out.
 Clear List:
 
-Click the "Clear List" button to remove all items from the list.
+4. Click the "Clear List" button to remove all items from the list.
 Delete Items:
 
-Click the "X" button next to an item to delete it from the list.
+5. Click the "X" button next to an item to delete it from the list.
